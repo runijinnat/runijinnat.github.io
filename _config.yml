@@ -1,65 +1,31 @@
-url: https://runijinnat.github.oi
-baseurl: /
-
-# Site settings
+---
 title: Shaila Jinnat (Runi)
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+url: https://runijinnat.github.oi
+baseurl: "/"
 email: runibottola@gmail.com
-description: "This is a portfolio site of mine. My projects and experiments are shown here"
-
-
-# Team names, titles and social links
-# 3people:
-# - name: Kay Garland
-#   pic: 1
-#   position: Lead Designer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: stack-overflow
-#       url: #
-
-# - name: Larry Parker
-#   pic: 2
-#   position: Lead Marketer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: linkedin
-#       url: #
-
-# - name: Diana Petersen
-#   pic: 3
-#   position: Lead Developer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: google-plus
-#       url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+description: This is a portfolio site of mine. My projects and experiments are shown
+  here
 social:
-  - title: twitter
-    url: '#'
-  - title: facebook
-    url: '#'
-  - title: stack-overflow
-    url: "#"
-  - title: bitbucket 
-    url: '#'
-  - title: github
-    url: '#'
-
-# Postal address (add as many lines as necessary)
+- title: twitter
+  url: "#"
+- title: facebook
+  url: "#"
+- title: stack-overflow
+  url: "#"
+- title: bitbucket
+  url: "#"
+- title: github
+  url: "#"
 address:
-  - line: House-126, Road-19 (Bankers lane), Nirala R/A
-  - line: Khulna, Bangladesh
-
-# Build settings
+- line: House-126, Road-19 (Bankers lane), Nirala R/A
+- line: Khulna, Bangladesh
 markdown: kramdown
 permalink: pretty
