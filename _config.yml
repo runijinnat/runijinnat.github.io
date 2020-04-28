@@ -1,9 +1,9 @@
-url: https://portfolio.utsargo.me
-baseurl: https://portfolio.utsargo.me
+url: https://runijinnat.github.op
+baseurl: /
 
 # Site settings
-title: CodeLab
-email: royutsargo@gmail.com
+title: Shaila Jinnat (Runi)
+email: runibottola@gmail.com
 description: "This is a portfolio site of mine. My projects and experiments are shown here"
 
 
@@ -47,18 +47,18 @@ social:
   - title: twitter
     url: '#'
   - title: facebook
-    url: https://web.facebook.com/utsargo.roy
+    url: '#'
   - title: stack-overflow
     url: "#"
   - title: bitbucket 
-    url: http://bitbucket.org/utsargo
+    url: '#'
   - title: github
-    url: http://github.com/utsargo
+    url: '#'
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Pujakhola, Boyra
-  - line: Kulna 9000
+  - line: House-126, Road-19 (Bankers lane), Nirala R/A
+  - line: Khulna, Bangladesh
 
 # Build settings
 markdown: kramdown
