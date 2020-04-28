@@ -1,65 +1,31 @@
+---
+title: CodeLab
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 url: https://portfolio.utsargo.me
 baseurl: https://portfolio.utsargo.me
-
-# Site settings
-title: CodeLab
 email: royutsargo@gmail.com
-description: "This is a portfolio site of mine. My projects and experiments are shown here"
-
-
-# Team names, titles and social links
-# 3people:
-# - name: Kay Garland
-#   pic: 1
-#   position: Lead Designer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: stack-overflow
-#       url: #
-
-# - name: Larry Parker
-#   pic: 2
-#   position: Lead Marketer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: linkedin
-#       url: #
-
-# - name: Diana Petersen
-#   pic: 3
-#   position: Lead Developer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: google-plus
-#       url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+description: This is a portfolio site of mine. My projects and experiments are shown
+  here
 social:
-  - title: twitter
-    url: '#'
-  - title: facebook
-    url: https://web.facebook.com/utsargo.roy
-  - title: stack-overflow
-    url: "#"
-  - title: bitbucket 
-    url: http://bitbucket.org/utsargo
-  - title: github
-    url: http://github.com/utsargo
-
-# Postal address (add as many lines as necessary)
+- title: twitter
+  url: "#"
+- title: facebook
+  url: https://web.facebook.com/utsargo.roy
+- title: stack-overflow
+  url: "#"
+- title: bitbucket
+  url: http://bitbucket.org/utsargo
+- title: github
+  url: http://github.com/utsargo
 address:
-  - line: Pujakhola, Boyra
-  - line: Kulna 9000
-
-# Build settings
+- line: Pujakhola, Boyra
+- line: Kulna 9000
 markdown: kramdown
 permalink: pretty
